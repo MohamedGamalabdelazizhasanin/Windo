@@ -81,3 +81,8 @@ body {
     0 0 0 6px #fff;
 
 }
+
+div {
+    background: linear-gradient(45deg, #9ad751,#2196f3);
+border-radius: 40%;
+}
